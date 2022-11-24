@@ -1,3 +1,3 @@
-# AMCL
+# NUBE-CHANNEL
 
-Este es el proyecto principal de una app multproposito.
+BASE DE DATOS DE CANALES PARA ACCESO DESDE UNA APP CON COMPONENTES DE RED.
