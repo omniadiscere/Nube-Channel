@@ -1,0 +1,16 @@
+[
+				{
+				"name":"Cartoon Network",
+				"logo":"http://www.elahmad.com/tv/mobiletv/images/CartoonNetwork.jpg?v=6",
+				"url":"https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_7.m3u8"		
+				},
+				{
+				"name":"MBC3",
+				"logo":"http://www.elahmad.com/tv/mobiletv/images/mbc3.jpg?v=6",
+				"url":"https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_7.m3u8"		
+				},
+				{
+				"name":"Spacetoon",
+				"logo":"http://www.elahmad.com/tv/mobiletv/images/spacetoon.jpg?v=6",
+				"url":"https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w650174042_b346000_slAR.m3u8"		
+				}]
