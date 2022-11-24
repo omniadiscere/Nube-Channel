@@ -1,21 +1,21 @@
 [
 				{
-				"name":"Cartoon Network",
-				"logo":"http://www.elahmad.com/tv/mobiletv/images/CartoonNetwork.jpg?v=6",
-				"url":"https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_7.m3u8"		
+				"name":"CDN 37",
+				"logo":"https://1.bp.blogspot.com/-0muMBZSsBAI/XTyLKssEwYI/AAAAAAAAIHA/h2BrcJQLjoQ3DgC0HGLr2NW-_NuhCj_ggCLcBGAs/w350-h350-p-k-no-nu/CDN%2BCanal%2B37%2Ben%2Bvivo.png",
+				"url":"https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/chunklist_b4628000.m3u8"		
 				},
 				{
-				"name":"MBC3",
-				"logo":"http://www.elahmad.com/tv/mobiletv/images/mbc3.jpg?v=6",
-				"url":"https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_7.m3u8"		
+				"name":"Antena 7",
+				"logo":"https://domintapi.com/images/station/335.jpg",
+				"url":"https://d3qhvst5vzq4y9.cloudfront.net/hls/antena7_270.m3u8"		
 				},
 				{
-				"name":"Spacetoon",
-				"logo":"http://www.elahmad.com/tv/mobiletv/images/spacetoon.jpg?v=6",
-				"url":"https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w650174042_b346000_slAR.m3u8"		
+				"name":"Orbit TV",
+				"logo":"https://domintapi.com/images/station/335.jpg",
+				"url":"https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1084181713.m3u8"		
 				},
 				{
-				"name":"Spacetoon",
-				"logo":"http://www.elahmad.com/tv/mobiletv/images/spacetoon.jpg?v=6",
-				"url":"https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w650174042_b346000_slAR.m3u8"		
+				"name":"Romana tv",
+				"logo":"https://canalesdominicanos.live/template/images/radios/romana_tv_canal_42.jpg",
+				"url":"https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8"		
 				}]
