@@ -30,7 +30,17 @@
 				"url":"https://ss9.domint.net:3040/ame_str/amecanal47/chunklist_w1871813227.m3u8"		
 				},
 				{
-				"name":"Antena 7",
-				"logo":"https://www.antena7.com.do/wp-content/themes/albavision-theme/parts-web/8da00b1c/logo.png",
-				"url":"https://d3qhvst5vzq4y9.cloudfront.net/hls/antena7_360.m3u8"		
+				"name":"TNI 51",
+				"logo":"https://tni51online.com/images/tni_logo_web.jpg",
+				"url":"https://ss5.domint.net:3188/tni_str/tni51/playlist.m3u8"		
+				},
+				{
+				"name":"Microvision 10",
+				"logo":"https://microvision.com.do/wp-content/uploads/2022/06/unnamed-3-200x308.jpg",
+				"url":"https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w1053430357.m3u8"		
+				},
+				{
+				"name":"Telemicro Canal 5",
+				"logo":"https://telemicro.com.do/wp-content/uploads/2021/07/icon.png",
+				"url":"https://playback.akamaized.net/streams/27456795_10633780_lsidqql5l7ybmhrend2_1/media/27456795_10633780_lsidqql5l7ybmhrend2_1@628000p.m3u8"		
 				}]
