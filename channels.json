@@ -28,4 +28,9 @@
 				"name":"Ame 47",
 				"logo":"https://canalesdominicanos.live/template/images/radios/ame-47.jpg",
 				"url":"https://ss9.domint.net:3040/ame_str/amecanal47/chunklist_w1871813227.m3u8"		
+				},
+				{
+				"name":"Antena 7",
+				"logo":"https://www.antena7.com.do/wp-content/themes/albavision-theme/parts-web/8da00b1c/logo.png",
+				"url":"https://d3qhvst5vzq4y9.cloudfront.net/hls/antena7_360.m3u8"		
 				}]
